@@ -1,3 +1,9 @@
-name: Lera
-surname: Avdejchik
-course: front-end
+**name**: Lera
+
+---
+
+**surname**: Avdejchik
+
+---
+
+**course**: front-end
